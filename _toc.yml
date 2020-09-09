@@ -2,7 +2,6 @@
 - file: content
 - file: markdown
 - file: notebooks
-- file: market_theory
 - file: inference_for_regression
 - file: probability_hacks
 - file: bayesian_data_analysis
