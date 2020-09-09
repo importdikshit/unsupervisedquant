@@ -1,5 +1,8 @@
 - file: intro
 - file: content
-  sections:
-    - file: markdown
-    - file: notebooks
+- file: markdown
+- file: notebooks
+- file: market_theory
+- file: inference_for_regression
+- file: probability_hacks
+- file: bayesian_data_analysis
